@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@dqbd/tiktoken": "^1.0.6",
+    "csv-parser": "^3.0.0",
+    "openai": "^3.2.1"
+  }
+}
