@@ -1,4 +1,4 @@
-### If you want to use my example please follwo the steps:
+### If you want to use my example please follow the steps:
 
 Export your API Key and Organization Key
 
