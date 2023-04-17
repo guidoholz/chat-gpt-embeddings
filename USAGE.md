@@ -1,6 +1,6 @@
-If you want to use my example please follwo the steps:
+### If you want to use my example please follwo the steps:
 
-### Export your API Key and Organization Key
+Export your API Key and Organization Key
 
 ```bash
 export OPENAI_API_KEY=sk-XXXXXXXXXXXXX....
@@ -9,9 +9,7 @@ export OPENAI_ORGANIZATION='org-XXXXXXXX....
 
 If you don't have the access right now, create an account on OpenAIs Webpage to get the keys.
 
-### Run the example
-
-run:
+Run the example:
 
 ```bash
 npm install
